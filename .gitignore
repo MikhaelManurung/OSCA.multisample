@@ -1,2 +1,5 @@
 inst/copy
 vignettes/book
+.Rproj.user
+*.Rproj
+*.rprofile
