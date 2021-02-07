@@ -5,7 +5,7 @@ bookdown::gitbook:
       theme: white
     toc:
       before: |
-        <li><a href="./">OSCA Advanced</a></li>
+        <li><a href="./">OSCA Multi-sample Comparisons</a></li>
       after: |
         <li><a href="https://bioconductor.org" target="blank">Published by Bioconductor</a></li>
     download: null

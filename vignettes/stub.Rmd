@@ -8,7 +8,7 @@ vignette: >
 ```{r, echo=FALSE}
 # Some compileable code, apparently needed for the engine
 # to recognize this as Rmarkdown.
-link <- BiocStyle::Biocbook("OSCA.advanced", label="link")
+link <- BiocStyle::Biocbook("OSCA.multisample", label="link")
 URL <- sub(".*\\((.+))", "\\1", link)
 ```
 
